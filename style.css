@@ -1,0 +1,44 @@
+body {
+    background-image: url("https://wallpaperaccess.com/full/1129099.jpg");
+    background-color: white;
+}
+
+button {
+    border: none;
+    color: white;
+    padding: 8px 16px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    background-color: mediumorchid;
+}
+
+.button1 {
+    background-color: black;
+    color: white;
+    border: 2px solid #4CAF50;
+}
+
+    .button1:hover {
+        background-color: mediumorchid;
+        color: red;
+    }
+
+h1{
+    color: orange;
+    font-family: Calibri;
+}
+
+table, th, td {
+    border: 1px solid black;
+    color: white;
+    text-align:center;
+}
+
+footer{
+    color: white;
+}
+
+
+
